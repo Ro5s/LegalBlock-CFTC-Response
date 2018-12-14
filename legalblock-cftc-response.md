@@ -18,7 +18,7 @@ Answer:
 
 ### 3. How is the developer community currently utilizing the Ethereum Network? More specifically, what are prominent use cases or examples that demonstrate the functionalities and capabilities of the Ethereum Network?
 
-Answer:
+*Prominently, the Ethereum development community has used the network to (i) manage digital token fundraisers for kickstarting open-source software projects that, by virtue of not developing proprietary IP, might not otherwise be able to attract funding, and, similarly, to (ii) manage bounty smart contracts that incentivize and coordinate open-source development through platforms such as Gitcoin and Bounties Network.* 
 
 ### 4. Are there any existing or developing commercial enterprises that are using Ether to power economic transactions? If so, how is Ether recorded for accounting purposes in a comprehensive set of financial statements?
 
