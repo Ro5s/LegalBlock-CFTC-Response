@@ -42,6 +42,12 @@ Answer:
 
 Answer:
 
+The Ethereum Network faces what many have called a 'scalability trilemma' for transaction processing in computer science, wherein blockchain systems are largely forced to choose two out of the following three options: (i) Decentralization (number of block producers), (ii) Scalability (transaction throughput), and (iii) Security (cost to attack network). In other words, a highly decentralized and secure blockchain system will almost necessarily have to make sacrifices on its transaction processing capabilities - - for example, because of hard-coded limits on computation per block, the Ethereum Network currently supports about 15 transactions per second versus the roughly 45,000 processed by a centralized provider like Visa.
+
+In the case of Bitcoin, where the cryptocurrency might store large values, or Ethereum, where the network is valued for trustless computation, the permissionless Proof of Work consensus algorithm is chosen for its relatively high offerings in terms of network security and decentralization (proven difficulty to manipulate); however, systems that target different blockchain use cases, such as Steem for micropayments, might use Delegated Proof of Stake (DPoS) as their consensus algorithm to offer more competitive processing speeds, wherein a limited delegation or more 'permissioned' number might mine blocks and have less overhead in reaching consensus, offering higher transaction throughput but losing aspects of decentralization and security in the same process.
+
+For Ethereum, these scalability challenges are mostly present for transactions 'on chain' at the fundamental, protocol layer ('Layer 1') - - more immediately, 'off chain' or 'Layer 2' solutions have been presented for scaling Ethereum's transaction processing capabilities. The following provides a brief overview of these Layer 2 solutions and their respective tradeoffs ( . . . . )
+
 ### 9. Has a proof of stake consensus mechanism been tested or validated at scale? If so, what lessons or insights can be learned from the experience?
 
 Answer:
